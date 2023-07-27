@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GeekBrains_HomeWork_1/1.0.0": {
+        "runtime": {
+          "GeekBrains_HomeWork_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeekBrains_HomeWork_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
